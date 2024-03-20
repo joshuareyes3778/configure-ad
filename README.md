@@ -7,3 +7,11 @@ This tutorial outlines the setup of Active Directory within Azure virtual machin
 </p>
 
 <h2> Environments and Technologies Used</h2>
+
+- MIcrosoft Azure for Virtual Machines
+- Remote Desktop Connection
+- Active Directory Domain Services
+- PowerShell
+
+<h2> Operating Systems Used </h2>
+
