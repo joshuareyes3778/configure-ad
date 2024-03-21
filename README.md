@@ -24,4 +24,5 @@ This tutorial outlines the setup of Active Directory within Azure virtual machin
 - Step 2: Connecting the user VM to the Domain Controller
 - Step 3: Installing Active Directory on the Windows Server
 - Step 4: Creating Admin and user accounts in Active Directory
-- Step 5: 
+- Step 5: Joining the VM to a custom Domain
+- Step 6: Creating several new Users that can log into the Windows 10 Client
