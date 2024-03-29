@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
 <h1>Configuring Active Directory within Azure Virtual Machines</h1>
 </p>
 
